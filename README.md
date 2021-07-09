@@ -23,4 +23,4 @@ TFT LCD Screens
 HC-05 Bluetooth Module
 DHT22 Temperature Sensor
 
-
+![connections](https://user-images.githubusercontent.com/8758907/125074872-2ab75c80-e0be-11eb-9573-946ee0e794c5.JPG)
